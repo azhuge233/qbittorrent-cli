@@ -4,3 +4,5 @@ rules:
     upstream: fedarovich:master    # change `wei` to the owner of upstream repo
     mergeMethod: merge
     mergeUnstable: false
+    conflictReviewers:
+      - azhuge233
